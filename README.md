@@ -1,7 +1,7 @@
-## `EightPuzzleDraft.ipynb`
+- `EightPuzzleDraft.ipynb`
 
 This is a draft notebook I used to write and test the code. It includes all previous versions of the code, all steps, notes and visualizations. 
 
-## `final.py`
+- `final.py`
 
 This is the final version. The code is documented and there is no mess in the implementation in comparison to the draft version. 
